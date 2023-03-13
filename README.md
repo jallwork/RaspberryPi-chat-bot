@@ -18,3 +18,7 @@ Software:
 See Raspberry Pi Chat GPT.docx for full details
 
 Video at: https://youtu.be/7xdypb3OFRo
+
+More Pi examples in my book: https://www.elektor.com/programming-voice-controlled-iot-applications-with-alexa-and-raspberry-pi
+
+![My book](BookCoverSmall.png)
