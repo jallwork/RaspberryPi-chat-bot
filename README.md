@@ -16,3 +16,5 @@ Software:
 3. chatbot.py
 
 See Raspberry Pi Chat GPT.docx for full details
+
+Video at: https://youtu.be/7xdypb3OFRo
