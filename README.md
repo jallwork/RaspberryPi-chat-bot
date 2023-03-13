@@ -2,7 +2,7 @@
 
 Instructions on how to create a chat bot with a Raspberry Pi. Set up and test instructions are provided.
 
-The program waits for a wakeword, then asks for a question. It reponds with the answer from OpenAI chat GPT, repeating util 'quit' is spoken.
+The program waits for a wakeword, then asks for a question. It reponds with the answer from OpenAI chat GPT, repeating until 'quit' is spoken.
 
 Hardware:
 1. Raspberry Pi
